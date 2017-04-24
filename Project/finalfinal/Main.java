@@ -10,7 +10,8 @@ public class Main {
 
 	 public static void main(String[] args) {
 		   
-		 
+//		 This is my second commit
+		 //this will be shown after commit
 		 StudentView.getInstance("").otherOperation();
 	     
 	        FrontController frontController = new FrontController();
@@ -29,6 +30,5 @@ public class Main {
 	        frontController.dispatchRequest("TeacherView");
 	        }
 	        sc.close();
-	        frontController.dispatchRequest("slsblsf");
 	    }
 }
