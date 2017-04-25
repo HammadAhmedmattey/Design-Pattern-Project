@@ -12,6 +12,7 @@ public class Main {
 		   
 //		 This is my second commit
 		 //this will be shown after commit
+//		 this is 3rd commit
 		 StudentView.getInstance("").otherOperation();
 	     
 	        FrontController frontController = new FrontController();
